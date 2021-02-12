@@ -15,7 +15,7 @@
 <hr />
 
 ### 👋 Hi!
-I am a Software Engineer who's crazy about *Self Driving Vehicles* and *Flying Cars*.
+I am a Software Engineer who's crazy about *Self Driving Vehicles* and *Flying Cars*. Currently developing an Autonomous Rover for Exploration of Unknown Environments. Read more about it in this [repo](https://github.com/amm98d/scout-rover)
 
 ### 🔭 I’m currently working on ...
 **Autonomous Exploration and Mapping of Unknown Environment**. This is my Final Year Project in which we are exploring indoor environments using a rover equipped with a single depth camera. Read more about it <a href="https://github.com/amm98d/scout-rover" target="_blank" rel="noopener noreferrer">here</a>.
