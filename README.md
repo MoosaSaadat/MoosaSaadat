@@ -1,4 +1,4 @@
-## ![Header Image](https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/main/imgs/1.png)
+## ![Header Image](https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/main/imgs/cover.png)
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/muhammad-musa/" target="_blank" rel="noopener noreferrer">
