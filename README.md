@@ -1,36 +1,40 @@
-## ![Header Image](https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/main/imgs/cover.jpg)
+## ![Header Image](./imgs/banner.png)
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/muhammad-musa/" target="_blank" rel="noopener noreferrer">
-    <img width="25" src="https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/24eec96584dba99f327d10f4fdb88414405d2a13/imgs/linkedin.svg">
+    <img width="25" src="./imgs/linkedin.svg">
   </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/story/moosasaadat" target="_blank" rel="noopener noreferrer">
-    <img width="25" src="https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/24eec96584dba99f327d10f4fdb88414405d2a13/imgs/stack-overflow.svg">
+    <img width="25" src="./imgs/stack-overflow.svg">
   </a>&nbsp;&nbsp;
   <a href="mailto:moosasaadat99@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img width="25" src="https://raw.githubusercontent.com/MoosaSaadat/MoosaSaadat/24eec96584dba99f327d10f4fdb88414405d2a13/imgs/message.svg">
+    <img width="25" src="./imgs/message.svg">
   </a>&nbsp;&nbsp;
 </p>
 
 <hr />
 
 ### 👋 Hi!
-I am a Software Engineer who's crazy about *Self Driving Vehicles* and *Flying Cars*. Currently developing an Autonomous Rover for Exploration of Unknown Environments. Read more about it in this [repo](https://github.com/amm98d/scout-rover)
 
-### 🔭 I’m currently working on ...
-**Autonomous Exploration and Mapping of Unknown Environment**. This is my Final Year Project in which we are exploring indoor environments using a rover equipped with a single depth camera. Read more about it <a href="https://github.com/amm98d/scout-rover" target="_blank" rel="noopener noreferrer">here</a>.
+I am a Software Engineer ~~passionate about...~~
+
+I'll save you some time with the cliche introductions. I am just another Software Engineer trying to do good and be good.
 
 ### 📚 My latest read ...
-**Shape Up: Stop Running in Circles and Ship Work that Matters**. This book is all about planning projects in a way that minimizes the rabbit holes and maximizes the output. It talks about a management method different from the common agile/scrum. Read this book <a href="https://basecamp.com/shapeup/" target="_blank" rel="noopener noreferrer">here</a>.
+
+**Software Engineering at Google: Lessons Learned from Programming Over Time**. If you are curious about how things are done at Google, do give this book a read! It starts off with an interesting comparison between _programming_ and _software engineering_ and then discusses how the latter is approached at Google.
 
 ### 👯 I’m looking to collaborate on ...
-**Python and Artificial Intelligence project**. Yup! I am open to collaborate on projects involving AI. I have implemented and worked with artificial intelligence algorithms and machine learning/deep learning techniques.
+
+**Anything interesting**. Yup! I will be happy to work on interesting projects.
 
 ### 🛠️ My tech skills and technologies...
+
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
 ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk)
+![Golang](https://img.shields.io/badge/-Golang-000?style=flat-square&logo=go)
 ![HTML5](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
@@ -52,7 +56,11 @@ I am a Software Engineer who's crazy about *Self Driving Vehicles* and *Flying C
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000?style=flat-square&logo=visualstudiocode)
+![Vim](https://img.shields.io/badge/-Vim-000?style=flat-square&logo=vim)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=flat-square&logo=opencv)
 ![Keras](https://img.shields.io/badge/-Keras-000?style=flat-square&logo=keras)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=kubernetes)
+![Helm](https://img.shields.io/badge/-Helm-000?style=flat-square&logo=helm)
