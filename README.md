@@ -17,11 +17,9 @@
 
 <hr />
 
-### 👋 Hi!
+### 👋 Hi! I am a ...
 
-I am a Software Engineer ~~passionate about...~~
-
-I'll save you some time with the cliche introductions. I am just another Software Engineer trying to do good and be good.
+**Software Engineer** trying to do good and be good.
 
 ### 📚 My latest read ...
 
@@ -31,7 +29,7 @@ I'll save you some time with the cliche introductions. I am just another Softwar
 
 **Anything interesting**. Yup! I will be happy to work on interesting projects.
 
-### 🛠️ My tech skills and technologies...
+### 🛠️ My tech skills and technologies ...
 
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
 ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c)
