@@ -7,7 +7,7 @@
   <a href="https://twitter.com/MoosaSaadat" target="_blank" rel="noopener noreferrer">
     <img src="./imgs/icons8-twitter-circled.svg">
   </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/story/moosasaadat" target="_blank" rel="noopener noreferrer">
+  <a href="https://stackoverflow.com/u/11395861" target="_blank" rel="noopener noreferrer">
     <img src="./imgs/icons8-stackoverflow-circled.svg">
   </a>&nbsp;&nbsp;
   <a href="mailto:moosasaadat99@gmail.com" target="_blank" rel="noopener noreferrer">
