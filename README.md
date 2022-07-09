@@ -65,3 +65,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/-Helm-000?style=flat-square&logo=helm)
+
+### 🔢 And some stats ...
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosasaadat&layout=compact&theme=github_dark&langs_count=10&custom_title=Most%20Used%20Languages%20(public%20only)" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=moosasaadat&count_private=true&show_icons=true&theme=github_dark&line_height=28&hide_rank=true&custom_title=GitHub%20Stats" />
+</p>
