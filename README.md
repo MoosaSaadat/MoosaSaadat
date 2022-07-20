@@ -19,7 +19,7 @@
 
 ### 👋 Hi! I am a ...
 
-**Software Engineer** trying to do good and be good.
+**Software Engineer** experienced in full-stack development with particular interest in backend. In the past, I have coded in a variety of programming langauges.
 
 ### 📚 My latest read ...
 
